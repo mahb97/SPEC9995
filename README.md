@@ -10,3 +10,8 @@ code for data viz module
 - [Top 50 ggplot2 Visualizations](https://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Animated%20Bubble%20Plot)
 
 
+## data art
+- [Data to Art](https://www.data-to-art.com/artworks)
+- [Visual Cinnamon portfolio](https://www.visualcinnamon.com/about/)
+- [New Art City Virtualizes The Gallery, Abolishes Gatekeepers, and Increases Access](https://www.holo.mg/serials/what-just-happened/new-art-city-don-hanson-sammie-veeler/)
+- [The Little Book of Accessibility](https://uxdesign.cc/the-little-book-of-accessibility-a9b59d82b412)
