@@ -15,3 +15,7 @@ code for data viz module
 - [Visual Cinnamon portfolio](https://www.visualcinnamon.com/about/)
 - [New Art City Virtualizes The Gallery, Abolishes Gatekeepers, and Increases Access](https://www.holo.mg/serials/what-just-happened/new-art-city-don-hanson-sammie-veeler/)
 - [The Little Book of Accessibility](https://uxdesign.cc/the-little-book-of-accessibility-a9b59d82b412)
+
+## other
+- [Institute of Machine Unlearning](https://www.instituteofmachineunlearning.com/workshops.html)
+- [Institute of Diagram Studies](https://diagram.institute)
