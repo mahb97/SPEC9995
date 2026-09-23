@@ -21,4 +21,5 @@ code for data viz module
 - [Institute of Diagram Studies](https://diagram.institute)
 - [Information is beautiful](https://informationisbeautiful.net)
 - [MIT: Trash | Track](https://senseable.mit.edu/trashtrack/visualizations.php?id=2)
+- [Gender Shades Project](http://gendershades.org/overview.html)
 
