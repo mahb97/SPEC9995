@@ -19,3 +19,6 @@ code for data viz module
 ## other
 - [Institute of Machine Unlearning](https://www.instituteofmachineunlearning.com/workshops.html)
 - [Institute of Diagram Studies](https://diagram.institute)
+- [Information is beautiful](https://informationisbeautiful.net)
+- [MIT: Trash | Track](https://senseable.mit.edu/trashtrack/visualizations.php?id=2)
+
